@@ -3,5 +3,4 @@
 Personal objectives : 
 
 * Learn Rust 
-* Use only immutable variables
 * Enjoy
